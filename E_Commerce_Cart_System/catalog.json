@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Wireless Mouse",
+    "Price": 799.99,
+    "Stock": 0
+  },
+  {
+    "Id": 2,
+    "Name": "Laptop Stand",
+    "Price": 1299.5,
+    "Stock": 9
+  },
+  {
+    "Id": 3,
+    "Name": "Bluetooth Headphones",
+    "Price": 2499.99,
+    "Stock": 14
+  },
+  {
+    "Id": 4,
+    "Name": "USB-C Hub",
+    "Price": 899,
+    "Stock": 20
+  },
+  {
+    "Id": 5,
+    "Name": "Portable SSD",
+    "Price": 4999.99,
+    "Stock": 5
+  }
+]
